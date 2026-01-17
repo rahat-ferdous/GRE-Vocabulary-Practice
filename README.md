@@ -3,7 +3,7 @@
 An interactive web application to help you master GRE vocabulary through flashcards, tests, games, and progress tracking.
 
 ## 🚀 Live Demo
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-username-gre-vocab-practice.streamlit.app/)
+[![Streamlit App]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-username-gre-vocab-practice.streamlit.app/](https://gre-vocabulary-practice-56mxmklyvr8vb7dgmcxdr4.streamlit.app/))
 
 ## ✨ Features
 
